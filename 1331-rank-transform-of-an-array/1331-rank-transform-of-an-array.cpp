@@ -1,24 +1,18 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
-
-        vector<int> temp = arr;
-        sort(temp.begin(), temp.end());
-
-        unordered_map<int, int> mp;
+        // Store the rank for each number in arr
+        unordered_map<int, int> numToRank;
+        // Deduplicate and sort arr
+        set<int> nums(arr.begin(), arr.end());
         int rank = 1;
-
-        for (int i = 0; i < temp.size(); i++) {
-            if (mp.find(temp[i]) == mp.end()) {
-                mp[temp[i]] = rank;
-                rank++;
-            }
+        for (auto num : nums) {
+            numToRank[num] = rank;
+            rank++;
         }
-
         for (int i = 0; i < arr.size(); i++) {
-            arr[i] = mp[arr[i]];
+            arr[i] = numToRank[arr[i]];
         }
-
         return arr;
     }
 };
