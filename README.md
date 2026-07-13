@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0055-jump-game) |
+| [0274-h-index](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0274-h-index) |
 | [1331-rank-transform-of-an-array](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0274-h-index) |
 | [1331-rank-transform-of-an-array](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Linked List
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1291-sequential-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
