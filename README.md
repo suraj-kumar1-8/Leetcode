@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0055-jump-game) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
