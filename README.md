@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0055-jump-game) |
 | [1331-rank-transform-of-an-array](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suraj-kumar1-8/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
