@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suraj-kumar1-8/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
