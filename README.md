@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0055-jump-game) |
 | [0274-h-index](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0274-h-index) |
 | [0496-next-greater-element-i](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suraj-kumar1-8/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suraj-kumar1-8/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0055-jump-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/suraj-kumar1-8/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
