@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/suraj-kumar1-8/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/suraj-kumar1-8/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
