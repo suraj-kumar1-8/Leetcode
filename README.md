@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1260-shift-2d-grid](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
