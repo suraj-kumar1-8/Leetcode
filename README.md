@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/suraj-kumar1-8/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suraj-kumar1-8/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/suraj-kumar1-8/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suraj-kumar1-8/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suraj-kumar1-8/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suraj-kumar1-8/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suraj-kumar1-8/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suraj-kumar1-8/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3174-clear-digits](https://github.com/suraj-kumar1-8/Leetcode/tree/master/3174-clear-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/suraj-kumar1-8/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/suraj-kumar1-8/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
