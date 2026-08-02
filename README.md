@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0055-jump-game) |
 | [0274-h-index](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0274-h-index) |
+| [0486-predict-the-winner](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0486-predict-the-winner](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/suraj-kumar1-8/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suraj-kumar1-8/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/suraj-kumar1-8/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/suraj-kumar1-8/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
