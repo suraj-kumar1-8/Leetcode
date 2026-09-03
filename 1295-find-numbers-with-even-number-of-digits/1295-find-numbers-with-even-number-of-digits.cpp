@@ -8,7 +8,7 @@ public:
             while(nums[i]>0){
 
             
-            int digit=nums[i]%10;
+            
             cnt++;
             nums[i]=nums[i]/10;
             }
