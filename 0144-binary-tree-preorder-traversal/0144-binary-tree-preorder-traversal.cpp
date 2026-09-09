@@ -12,18 +12,21 @@
 class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> result;
-        preorder(root, result);
-        return result;
+        vector< int> visited ;
+
+        dfs(root, visited);
+        return visited;
+
+        
     }
 
-private:
-    void preorder(TreeNode* node, vector<int>& result) {
-        if (!node) {
-            return;
-        }
-        result.push_back(node->val);        // Visit root
-        preorder(node->left, result);       // Traverse left
-        preorder(node->right, result);      // Traverse right
+    void dfs(TreeNode* root, vector<int> &visited){
+
+        if (!root) return ;
+
+        visited.push_back(root->val);
+        dfs(root->left, visited);
+        dfs(root->right, visited);
+
     }
 };
