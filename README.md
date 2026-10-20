@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0055-jump-game) |
 | [0274-h-index](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0274-h-index) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/suraj-kumar1-8/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/suraj-kumar1-8/Leetcode/tree/master/1386-cinema-seat-allocation) |
